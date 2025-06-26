@@ -73,39 +73,39 @@ li:hover {
 }
 
 .icon.home {
-  background-image: url(/svg/home.svg);
+  background-image: url(./svg/home.svg);
 }
 
 .icon.profile {
-  background-image: url(/svg/account.svg);
+  background-image: url(./svg/account.svg);
 }
 
 .icon.message {
-  background-image: url(/svg/message.svg);
+  background-image: url(./svg/message.svg);
 }
 
 .icon.history {
-  background-image: url(/svg/history.svg);
+  background-image: url(./svg/history.svg);
 }
 
 .icon.task {
-  background-image: url(/svg/task.svg);
+  background-image: url(./svg/task.svg);
 }
 
 .icon.community {
-  background-image: url(/svg/account-group.svg);
+  background-image: url(./svg/account-group.svg);
 }
 
 .icon.settings {
-  background-image: url(/svg/cog.svg);
+  background-image: url(./svg/cog.svg);
 }
 
 .icon.support {
-  background-image: url(/svg/face-agent.svg);
+  background-image: url(./svg/face-agent.svg);
 }
 
 .icon.privacy {
-  background-image: url(/svg/lock.svg);
+  background-image: url(./svg/lock.svg);
 }
 
 .content {
